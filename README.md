@@ -6,7 +6,7 @@ My fingers are in a bunch of decentralized pies...
 - 👉 [Avastars](https://nft42.github.io/Avastars-Contracts/) - OG generative collectibles with on-chain art & metadata.
 - 👉 [Nifty Cannon](https://niftycannon.app) - A bulk NFT transfer utility. Make it rain NFTs!
 - 👉 [Vinyl Registry](https://vinylregistry.org) - Pairing NFTs and limited-release rare Vinyl.
-- 👉 [Seen Haus](http://seen.haus) - Next-gen primary & secondary marketplace, focused on royalties and physical NFTs.
+- 👉 [Seen Haus](http://seen.haus) - Primary & secondary NFT marketplace, focused on royalties and physical NFTs.
 - 👉 [KnownOrigin](http://knownorigin.io) - Artist royalties and collaborator fundsplitting on V3 contract suite.
 - 👉 [In-App Pro Shop](https://in-app-pro-shop.futurescale.com/) - A system for creating stores on the blockchain for in-app purchases.
 - 👉 [Boson Protocol](https://www.bosonprotocol.io/) - Building the future of decentralized commerce.
