@@ -9,4 +9,4 @@ My fingers are in a bunch of decentralized pies...
 - 👉 [Seen Haus](http://seen.haus) - Next-gen primary and secondary marketplace suite, focusing on royalties and physical NFTs.
 - 👉 [KnownOrigin](http://knownorigin.io) - Artist royalties and collaborator fundsplitting on V3 contract suite.
 - 👉 [In-App Pro Shop](https://in-app-pro-shop.futurescale.com/) - A system for creating stores on the blockchain for in-app purchases.
-
+- 👉 [Boson Protocol](https://www.bosonprotocol.io/) - Building the future of decentralized commerce.
