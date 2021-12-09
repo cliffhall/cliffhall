@@ -1,4 +1,4 @@
-### [seaofarrows.eth](https://opensea.io/seaofarrows) ⛓🧠💥
+###  ⛓ 🧠 💥 [seaofarrows.eth](https://opensea.io/seaofarrows)
 
 My fingers are in a bunch of decentralized pies...
 
