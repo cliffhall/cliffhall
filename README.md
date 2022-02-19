@@ -2,8 +2,8 @@
 
 My fingers are in a bunch of decentralized pies...
 
-- 👉 [Fismo](https://github.com/cliffhall/Fismo) - Finite State Machines for Ethereum.
 - 👉 [Building on Ethereum](https://amzn.to/3iDsG1q) - A Solidity dev book I wrote.
+- 👉 [Fismo](https://github.com/cliffhall/Fismo) - Multitenant Finite State Machines for Ethereum.
 - 👉 [Vinyl Registry](https://vinylregistry.org) - Pairing NFTs and limited-release rare vinyl.
 - 👉 [Boson Protocol](https://www.bosonprotocol.io/) - Building the future of metaverse commerce.
 - 👉 [In-App Pro Shop](https://in-app-pro-shop.futurescale.com/) - NFT-based in-app purchases for Ethereum.
