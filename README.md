@@ -10,4 +10,4 @@ My fingers are in a bunch of decentralized pies...
 - 👉 [Avastars](https://nft42.github.io/Avastars-Contracts/) - OG generative collectibles with on-chain art & metadata.
 - 👉 [Seen Haus](https://seen.haus) - Extensible next-gen physical & digital NFT marketplace.
 - 👉 [KnownOrigin](https://knownorigin.io) - Royalties & collaborator fundsplitting on V3 contract suite.
-- 👉 [Boson Protocol](https://www.bosonprotocol.io/) - The trust-minimized, decentralized commerce protocol.
+- 👉 [Boson Protocol](https://www.bosonprotocol.io/) - The trust-minimized, decentralized commerce protocol for Ethereum.
