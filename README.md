@@ -9,5 +9,6 @@ My fingers are in a bunch of decentralized pies...
 - 👉 [Boson Protocol](https://www.bosonprotocol.io/) - Building the future of metaverse commerce.
 - 👉 [In-App Pro Shop](https://in-app-pro-shop.futurescale.com/) - NFT-based in-app purchases for Ethereum.
 - 👉 [Avastars](https://nft42.github.io/Avastars-Contracts/) - OG generative collectibles with on-chain art & metadata.
-- 👉 [Seen Haus](http://seen.haus) - Extensible next-gen physical & digital NFT marketplace.
-- 👉 [KnownOrigin](http://knownorigin.io) - Royalties & collaborator fundsplitting on V3 contract suite.
+- 👉 [Seen Haus](https://seen.haus) - Extensible next-gen physical & digital NFT marketplace.
+- 👉 [KnownOrigin](https://knownorigin.io) - Royalties & collaborator fundsplitting on V3 contract suite.
+- 👉 [Boson Protocol](https://github.com/bosonprotocol/boson-protocol-contracts) - Tech Lead for the trust-minimized decentralized commerce protocol.
