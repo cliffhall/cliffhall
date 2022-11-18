@@ -2,7 +2,7 @@
 
 My fingers are in a bunch of decentralized pies ...
 
-- 👉 [Fismo Protocol](https://github.com/cliffhall/Fismo/blob/main/README.md) - A finite state mmchine protocol.
+- 👉 [Fismo Protocol](https://github.com/cliffhall/Fismo/blob/main/README.md) - A finite state machine protocol.
 - 👉 [Building on Ethereum](https://amzn.to/3iDsG1q) - A Solidity dev book I wrote.
 - 👉 [Boson Protocol](https://www.bosonprotocol.io/) - A decentralized commerce protocol.
 - 👉 [Vinyl Registry](https://vinylregistry.org) - Pairing NFTs and limited-release rare vinyl.
