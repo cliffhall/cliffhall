@@ -1,6 +1,6 @@
 ###  ⛓ 🧠 💥 [seaofarrows.eth](https://opensea.io/seaofarrows)
 
-My fingers are been in a bunch of decentralized pies ...
+My fingers are in a bunch of decentralized pies ...
 
 - 👉 [Fismo Protocol](https://github.com/cliffhall/Fismo/blob/main/README.md) - A finite state mmchine protocol.
 - 👉 [Building on Ethereum](https://amzn.to/3iDsG1q) - A Solidity dev book I wrote.
