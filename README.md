@@ -2,6 +2,7 @@
 
 My fingers are in a bunch of decentralized pies ...
 
+- 👉 [Lil Birbs DAO](https://www.lilbirbs.xyz) - Immersive lore / on-chain quests. 
 - 👉 [Fismo Protocol](https://github.com/cliffhall/Fismo/blob/main/README.md) - A finite state machine protocol.
 - 👉 [Building on Ethereum](https://amzn.to/3iDsG1q) - A Solidity dev book I wrote.
 - 👉 [Boson Protocol](https://www.bosonprotocol.io/) - A decentralized commerce protocol.
