@@ -2,7 +2,7 @@
 
 # 📆 Status
 ## I have corp-to-corp availability via [my company](https://futurescale.com) ~ 3-4 days a week. 
-### 🤝 [Hire me, quick!](https://calendly.com/cliffhall) 
+## 🤝 [Hire me, quick!](https://calendly.com/cliffhall) 
 ### 🧠 Focusing on AI
 I spent much of 2023 planning and building [PlotRocket](https://plotrocket.app), an AI-assisted writers' room. It combines artificial intelligence with a standard industry practice for creating episodic fiction, to yield a tool capable of planning multiple seasons of a television series down to the scene and beat. It allows anyone to turn an idea into an engaging episodic story. Not a tool for push-button AI shovelware, but a force multiplier for creative talent. I continue to build and improve it, while considering what to actually do with it. 
 
