@@ -4,7 +4,6 @@ My fingers are in a bunch of decentralized pies ...
 
 - 👉 [Fismo Protocol](https://github.com/cliffhall/Fismo/blob/main/README.md) - A finite state machine protocol.
 - 👉 [Building on Ethereum](https://amzn.to/3iDsG1q) - A Solidity dev book I wrote.
-- 👉 [Lil Birbs](https://www.lilbirbs.xyz) - PFP + immersive lore and on-chain quests. 
 - 👉 [Boson Protocol](https://www.bosonprotocol.io/) - A decentralized protocol for commerce.
 - 👉 [Vinyl Registry](https://vinylregistry.org) - Pairing NFTs and limited-release rare vinyl.
 - 👉 [Nifty Cannon](https://niftycannon.app) - Make it rain NFTs! Zero-fee bulk NFT transfer.
