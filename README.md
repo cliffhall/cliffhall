@@ -9,7 +9,7 @@ I spent much of 2023 building [PlotRocket](https://plotrocket.app), an AI-assist
 <img width="auto" alt="Plotrocket" src="https://github.com/cliffhall/cliffhall/assets/871933/f027cc61-ac0e-4737-87ed-c98109e5a5d9">
 
 # 🕥 Previously
-### ⛓ Grinding, through multiple bulls and bears
+### ⛓ Through multiple bulls and bears
 Over the last few years, my fingers have been in a bunch of decentralized pies...
 
 - 👉 [Fismo Protocol](https://github.com/cliffhall/Fismo/blob/main/README.md) - A finite state machine protocol.
