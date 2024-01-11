@@ -20,5 +20,5 @@ Over the last 5 years, my fingers have been in a bunch of decentralized pies.
 - 👉 [Avastars](https://nft42.github.io/Avastars-Contracts/) - OG generative collectibles with on-chain art & metadata.
 - 👉 [Fismo Protocol](https://github.com/cliffhall/Fismo/blob/main/README.md) - Cloneable EVM-based finite state machine protocol.
 - 👉 [KnownOrigin](https://knownorigin.io) - Royalties and collaborator fundsplitting on V3 contract suite.
-- 👉 [Seen Haus](https://seen.haus) - Diamond-based, open-source physical & digital NFT marketplace.
 - 👉 [LaLa](https://lala.xyz) - Connecting media franchises with their fans via NFTs & revenue sharing.
+- 👉 [Seen Haus](https://seen.haus) - Diamond-based, open-source physical & digital NFT marketplace.
