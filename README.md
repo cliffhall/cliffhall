@@ -8,7 +8,7 @@ I spent much of 2023 planning and building [PlotRocket](https://plotrocket.app),
 
 <img width="auto" alt="Plotrocket" src="https://github.com/cliffhall/cliffhall/assets/871933/f027cc61-ac0e-4737-87ed-c98109e5a5d9">
 
-# 🕥 Previously
+# 🕥 Previously on...
 ### ⛓ Through multiple bulls and bears
 Over the last 5 years, my fingers have been in a bunch of decentralized pies.
 
