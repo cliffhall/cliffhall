@@ -6,7 +6,7 @@
 ## 🧠 Focusing on AI
 I spent much of 2023 planning and building [PlotRocket](https://plotrocket.app), an AI-assisted writers' room. It combines artificial intelligence with a standard industry practice for creating episodic fiction, to yield a tool capable of planning multiple seasons of a television series down to the scene and beat. It allows anyone to turn an idea into an engaging episodic story. Not a tool for push-button AI shovelware, but a force multiplier for creative talent. I continue to build and improve it, while considering what to actually do with it. 
 
-<img width="auto" alt="Plotrocket" src="https://github.com/cliffhall/cliffhall/assets/871933/f027cc61-ac0e-4737-87ed-c98109e5a5d9">
+<img width="1710" alt="Screenshot 2024-01-24 at 4 45 34 PM" src="https://github.com/cliffhall/cliffhall/assets/871933/4f510aef-7624-46bf-925e-ef126c2ba06f">
 
 # 🕥 Previously on...
 ### ⛓ Through multiple bulls and bears
