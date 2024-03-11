@@ -14,6 +14,7 @@ Over the last 6 years, my fingers have been in a bunch of decentralized pies.
 - 👉 [KnownOrigin](https://knownorigin.io) - Royalties and collaborator fundsplitting on V3 contract suite.
 - 👉 [LaLa](https://lala.xyz) - Connecting media franchises with their fans via NFTs & revenue sharing.
 - 👉 [Seen Haus](https://github.com/seen-haus/seen-contracts) - Diamond-based, open-source physical & digital NFT marketplace.
+- 👉 [Olympus](https://www.behance.net/gallery/82333699/Olympus-Verified) - Verifying the claims of crypto advisors.
 
 ## 🧠 Refocusing on AI
 I spent much of 2023 planning and building [PlotRocket](https://plotrocket.app), an AI-assisted writers' room. It combines artificial intelligence with a standard industry practice for creating episodic fiction, to yield a tool capable of planning multiple seasons of a television series down to the scene and beat. It allows anyone to turn an idea into an engaging episodic story. Not a tool for push-button AI shovelware, but a force multiplier for creative talent. I continue to build and improve it, while considering what to actually do with it. 
