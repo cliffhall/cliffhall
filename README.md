@@ -6,8 +6,7 @@ I spent much of 2023 planning and building [PlotRocket](https://plotrocket.app),
 
 <img width="1710" alt="Screenshot 2024-01-24 at 4 45 34 PM" src="https://github.com/cliffhall/cliffhall/assets/871933/4f510aef-7624-46bf-925e-ef126c2ba06f">
 
-# 🕥 Previously on...
-### ⛓ Through multiple bulls and bears
+## ⛓ Through multiple bulls and bears
 Over the last 5 years, my fingers have been in a bunch of decentralized pies.
 
 - 👉 [Building on Ethereum](https://amzn.to/3iDsG1q) - A Solidity dev book I wrote.
