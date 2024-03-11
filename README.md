@@ -2,7 +2,7 @@
 
 # Status
 ## ⛓ Building through multiple bulls and bears
-Over the last 5 years, my fingers have been in a bunch of decentralized pies.
+Over the last 6 years, my fingers have been in a bunch of decentralized pies.
 
 - 👉 [Building on Ethereum](https://amzn.to/3iDsG1q) - A Solidity dev book I wrote.
 - 👉 [Boson Protocol](https://www.bosonprotocol.io/) - A decentralized protocol for commerce.
