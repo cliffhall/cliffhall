@@ -9,6 +9,7 @@ If you'd like to hire me or just chat about something interesting, you can grab 
 Over the last 6 years, my fingers have been in a bunch of decentralized pies.
 
 - 👉 [Building on Ethereum](https://amzn.to/3iDsG1q) - A Solidity dev book I wrote.
+- 👉 [Pass On](https://www.passon.io/) - Affiliate Marketing for the Web3 generation.
 - 👉 [Boson Protocol](https://www.bosonprotocol.io/) - A decentralized protocol for commerce.
 - 👉 [Vinyl Registry](https://vinylregistry.org) - Pairing NFTs and limited-release rare vinyl.
 - 👉 [Nifty Cannon](https://niftycannon.app) - Make it rain NFTs! Zero-fee bulk NFT transfer.
