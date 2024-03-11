@@ -1,6 +1,6 @@
 ##  ⛓ 🧠 💥 Cliff Hall / [seaofarrows](https://solo.to/seaofarrows)
 
-# 💥 Status
+## 💥 Status
 Fully booked at the moment, but gigs always end. 
 
 If you'd like to hire me or just chat about something interesting, you can grab a slot on [my calendar](https://calendly.com/cliffhall).
