@@ -1,9 +1,9 @@
 ##  ⛓ 🧠 💥 Cliff Hall / [seaofarrows](https://solo.to/seaofarrows)
 
-## 💥 Status
-Fully booked at the moment, but gigs always end. 
-
-If you'd like to hire me or just chat about something interesting, you can grab a slot on [my calendar](https://calendly.com/cliffhall).
+## 💥 Availability for Consulting
+- 🚨 _One day per week just opened up!_
+- 🕓 Another 3 days per week will be available within a couple of months.
+- 📅 If you'd like to hire me or just chat about something interesting, you can grab a slot on [my calendar](https://calendly.com/cliffhall).
 
 ## ⛓ Building through multiple bulls and bears
 Over the last 6 years, my fingers have been in a bunch of decentralized pies.
