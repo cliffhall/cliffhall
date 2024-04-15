@@ -14,7 +14,7 @@ Over the last 6 years, my fingers have been in a bunch of decentralized pies.
 - 👉 [Vinyl Registry](https://vinylregistry.org) - Pairing NFTs and limited-release rare vinyl.
 - 👉 [Nifty Cannon](https://niftycannon.app) - Make it rain NFTs! Zero-fee bulk NFT transfer.
 - 👉 [In-App Pro Shop](https://in-app-pro-shop.futurescale.com/) - NFT-based in-app purchases for Ethereum.
-- 👉 [Avastars](https://nft42.github.io/Avastars-Contracts/) - OG generative collectibles with on-chain art & metadata.
+- 👉 [Avastars](https://avastars.io/) - OG generative collectibles with on-chain art & metadata.
 - 👉 [Fismo Protocol](https://github.com/cliffhall/Fismo/blob/main/README.md) - Cloneable EVM-based finite state machine protocol.
 - 👉 [KnownOrigin](https://knownorigin.io) - Royalties and collab fund splitting on V3 contract suite.
 - 👉 [LaLa](https://www.behance.net/gallery/194754877/Lala) - Connecting fans with media franchises via NFTs & revenue sharing.
