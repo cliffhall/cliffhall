@@ -1,12 +1,12 @@
 ##  ⛓ 🧠 💥 Cliff Hall / [seaofarrows](https://solo.to/seaofarrows)
 
 ## 💥 Availability for Consulting
-- 🚨 _One day per week just opened up!_
-- 🕓 Another 3 days per week will be available within a couple of months.
-- 📅 If you'd like to hire me or just chat about something interesting, you can grab a slot on [my calendar](https://calendly.com/cliffhall).
+- 🚨 -  _4 days per week currently up for grabs!_
+- 📅 -  If you'd like to hire me or just chat about something interesting, you can grab a slot on [my calendar](https://calendly.com/cliffhall).
+- 📋 -  My resume is [here](https://futurescale.com/content/resume/Cliff-Hall-Resume-2024.pdf) if you're interested.
 
-## ⛓ Building through multiple bulls and bears
-Over the last 6 years, my fingers have been in a bunch of decentralized pies.
+## ⛓ Building on-chain through multiple bulls and bears
+In 2018 I began working with Solidity and since then, my fingers have been in a bunch of decentralized pies.
 
 - 👉 [Building on Ethereum](https://amzn.to/3iDsG1q) - A Solidity dev book I wrote.
 - 👉 [Pass On](https://www.passon.io/) - Affiliate Marketing for the Web3 generation.
@@ -22,7 +22,5 @@ Over the last 6 years, my fingers have been in a bunch of decentralized pies.
 - 👉 [Olympus](https://www.behance.net/gallery/82333699/Olympus-Verified) - Verifying the claims of crypto advisors with on-chain portfolio analysis.
 
 ## 🧠 Refocusing on AI
-I spent much of 2023 planning and building [PlotRocket](https://plotrocket.app), an AI-assisted writers' room. It combines artificial intelligence with a standard industry practice for creating episodic fiction, to yield a tool capable of planning multiple seasons of a television series down to the scene and beat. It allows anyone to turn an idea into an engaging episodic story. Not a tool for push-button AI shovelware, but a force multiplier for creative talent. I continue to build and improve it, while considering what to actually do with it. 
-
-<img width="1710" alt="Screenshot 2024-01-24 at 4 45 34 PM" src="https://github.com/cliffhall/cliffhall/assets/871933/4f510aef-7624-46bf-925e-ef126c2ba06f">
-
+- ✨ At [Culturalyst](https://culturalyst.com), I used AI to map and categorize diverse artist opportunities from around the web. 
+- ✨ With [PlotRocket](https://plotrocket.app), an AI-assisted writers' room, I combined artificial intelligence with a common industry practice for creating episodic fiction, yielding a tool capable of planning multiple seasons of a television series down to the scene and beat. It allows anyone to turn an idea into an engaging episodic story. 
