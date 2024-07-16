@@ -23,4 +23,4 @@ In 2018 I began working with Solidity and since then, my fingers have been in a 
 
 ## 🧠 Refocusing on AI
 - ✨ At [Culturalyst](https://culturalyst.com), I used AI to map and categorize diverse artist opportunities from around the web. 
-- ✨ With [PlotRocket](https://plotrocket.app), an AI-assisted writers' room, I combined artificial intelligence with a common industry practice for creating episodic fiction, yielding a tool capable of planning multiple seasons of a television series down to the scene and beat. It allows anyone to turn an idea into an engaging episodic story. 
+- ✨ With [PlotRocket](https://plotrocket.app), an AI-assisted writers' room, I am combining artificial intelligence with common industry practices for writing episodic fiction, yielding a tool capable of planning multiple seasons of a television series down to the scene and beat. With or without the use of AI. It allows anyone to turn an idea into an engaging episodic story. 
