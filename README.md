@@ -1,7 +1,6 @@
 ##  ⛓ 🧠 💥 Cliff Hall / [seaofarrows](https://solo.to/seaofarrows)
 
 ## 💥 Availability for Consulting
-- 🚨 -  _4 days per week currently up for grabs!_
 - 📅 -  If you'd like to hire me or just chat about something interesting, you can grab a slot on [my calendar](https://calendly.com/cliffhall).
 - 📋 -  My resume is [here](https://futurescale.com/content/resume/Cliff-Hall-Resume-2024.pdf) if you're interested.
 
