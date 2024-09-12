@@ -5,8 +5,13 @@
 - 📅 -  If you'd like to hire me or just chat about something interesting, you can grab a slot on [my calendar](https://calendly.com/cliffhall).
 - 📋 -  My resume is [here](https://futurescale.com/content/resume/Cliff-Hall-Resume-2024.pdf) if you're interested.
 
+## 🧠 Focused on AI
+- ✨ At [Culturalyst](https://culturalyst.com), I used AI to map and categorize diverse artist opportunities from around the web. 
+- ✨ With [PlotRocket](https://plotrocket.app), an AI-assisted writers' room, I am combining artificial intelligence with common industry practices for writing episodic fiction, yielding a tool capable of planning multiple seasons of a television series down to the scene and beat. With or without the use of AI. It allows anyone to turn an idea into an engaging episodic story. 
+
 ## ⛓ Building on-chain through multiple bulls and bears
 In 2018 I began working with Solidity and since then, my fingers have been in a bunch of decentralized pies.
+I have since decided to apply my focus to AI, but I learned a lot on my blockchain journey, and met a lot of great people along the way.
 
 - 👉 [Building on Ethereum](https://amzn.to/3iDsG1q) - A Solidity dev book I wrote.
 - 👉 [Pass On](https://www.passon.io/) - Affiliate Marketing for the Web3 generation.
@@ -20,7 +25,3 @@ In 2018 I began working with Solidity and since then, my fingers have been in a 
 - 👉 [LaLa](https://www.behance.net/gallery/194754877/Lala) - Connecting fans with media franchises via NFTs & revenue sharing.
 - 👉 [Seen Haus](https://github.com/seen-haus/seen-contracts) - Diamond-based, open-source physical & digital NFT marketplace.
 - 👉 [Olympus](https://www.behance.net/gallery/82333699/Olympus-Verified) - Verifying the claims of crypto advisors with on-chain portfolio analysis.
-
-## 🧠 Refocusing on AI
-- ✨ At [Culturalyst](https://culturalyst.com), I used AI to map and categorize diverse artist opportunities from around the web. 
-- ✨ With [PlotRocket](https://plotrocket.app), an AI-assisted writers' room, I am combining artificial intelligence with common industry practices for writing episodic fiction, yielding a tool capable of planning multiple seasons of a television series down to the scene and beat. With or without the use of AI. It allows anyone to turn an idea into an engaging episodic story. 
