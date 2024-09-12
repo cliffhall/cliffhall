@@ -1,4 +1,4 @@
-##  🧠 💥 Cliff Hall / [seaofarrows](https://solo.to/seaofarrows)
+##  Cliff Hall / [seaofarrows](https://solo.to/seaofarrows)
 
 ## 💥 Availability for Consulting
 - 📅 -  If you'd like to hire me or just chat about something interesting, you can grab a slot on [my calendar](https://calendly.com/cliffhall).
