@@ -9,7 +9,7 @@
 - ✨ At [Culturalyst](https://culturalyst.com), I used AI to map and categorize diverse artist opportunities from around the web. 
 - ✨ With [PlotRocket](https://plotrocket.app), an AI-assisted writers' room, I am combining artificial intelligence with common industry practices for writing episodic fiction, yielding a tool capable of planning multiple seasons of a television series down to the scene and beat. With or without the use of AI. It allows anyone to turn an idea into an engaging episodic story. 
 
-## ⛓ Building on-chain through multiple bulls and bears
+## ⛓ Previously, an on-chain builder through multiple bulls and bears
 In 2018 I began working with Solidity and since then, my fingers have been in a bunch of decentralized pies.
 I have since decided to apply my focus to AI, but I learned a lot on my blockchain journey, and met a lot of great people along the way.
 
