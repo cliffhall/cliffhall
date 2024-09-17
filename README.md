@@ -5,7 +5,8 @@
 - 📋 -  My resume is [here](https://futurescale.com/content/resume/Cliff-Hall-Resume-2024.pdf) if you're interested.
 
 ## 🧠 Focused on AI
-- ✨ At [Culturalyst](https://culturalyst.com), I recently used AI to map and categorize diverse artist opportunities from around the web. 
+- ✨ At [Culturalyst](https://culturalyst.com), I recently used AI to overcome a showstopping issue with gathering artist opportunities from around the web and directing them to subscribing artists. With AI, I was able to classify opportunities from random sites into our taxonomy, normalizing the data fields such that they appeared to have been entered through our own UI.
+
 - ✨ With [PlotRocket](https://plotrocket.app), an AI-assisted writers' room, I am combining artificial intelligence with common industry practices for creating episodic fiction, yielding a tool capable of planning multiple seasons of a television series down to the scene and beat. With or without the use of AI. It allows anyone to turn an idea into an engaging episodic story. 
 
 ## 🕥 Previously on...
