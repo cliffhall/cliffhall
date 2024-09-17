@@ -20,7 +20,7 @@ Since then, crypto scams and the vicissitudes of the market have made it impossi
 - [Vinyl Registry](https://vinylregistry.org) - Pairing NFTs and limited-release rare vinyl.
 - [Avastars](https://avastars.io/) - The first generative collectibles with on-chain art & metadata.
 - [Fismo Protocol](https://github.com/cliffhall/Fismo/blob/main/README.md) - Cloneable EVM-based finite state machine protocol.
-- [KnownOrigin](https://knownorigin.io) - Royalties and collab fund splitting on V3 contract suite. Since bought by eBay and closed down.
+- [KnownOrigin](https://knownorigin.io) - Royalties & collab fund splitting. Since bought by eBay and closed down.
 - [Seen Haus](https://github.com/seen-haus/seen-contracts) - Diamond-based, open-source physical & digital NFT marketplace. Since bought by Propy.
 - [Nifty Cannon](https://niftycannon.app) - Make it rain NFTs! Zero-fee bulk NFT transfer.
 - [In-App Pro Shop](https://in-app-pro-shop.futurescale.com/) - NFT-based in-app purchases for Ethereum.
