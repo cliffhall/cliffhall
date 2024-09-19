@@ -32,7 +32,7 @@ Since then, crypto scams and the vicissitudes of the market have made it impossi
 - Dorado ChannelMaster - Mortgage loan origination system (LOS)
 - JP Morgan Chase - Customized Dorado's Channelmaster LOS
 - State Street Universe - Architecture for initial proof of concept
-- Avtec CWCT - Drone communication testing system
+- Avtec CWCT - Military drone communication testing system
 - Lockheed Martin ISPAN - Integrated Strategic Planning and Analysis Network
 - Weight Watchers Plan Manager - Meal and diet planning system
 
