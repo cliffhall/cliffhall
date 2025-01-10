@@ -7,7 +7,7 @@
 ## 🧠 Focused on AI
 - ✨ At [Culturalyst](https://culturalyst.com), I recently built an arts and culture focused, city-specific [AI assistant for improving artist discovery](https://futurescale.com/2024/11/15/arts-and-culture-concierge-ai-assistant/). Separately, I overcame a showstopping issue with gathering artist opportunities from around the web and delivering to subscribing artists those relevant to their discipline and experience. With AI, I was able to [classify opportunities from arbitrary sites](https://futurescale.com/2023/11/10/artist-opportunity-classification-with-ai/) into our taxonomy, normalizing the data into our domain model such that they appeared to have been entered through our own UI.
 
-- ✨ With [PlotRocket](https://plotrocket.app), an AI-assisted writers' room, I am combining artificial intelligence with common industry practices for creating episodic fiction, yielding a tool capable of planning multiple seasons of a television series down to the scene and beat. With or without the use of AI. It allows anyone to turn an idea into an engaging episodic story. 
+- ✨ With [PlotRocket](https://plotrocket.app), an AI-assisted series planner and episode outliner, I am combining artificial intelligence with common industry practices for creating episodic fiction, yielding a tool capable of planning multiple seasons of a television series down to the scene and beat. With or without the use of AI. It allows anyone to turn an idea into an engaging episodic story. 
 
 ## 🕥 Previously on...
 ### ⛓ An on-chain builder through multiple bulls and bears
