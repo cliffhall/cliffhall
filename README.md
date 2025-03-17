@@ -18,11 +18,13 @@
 * OpenAI API
 * Model Context Protocol (MCP) - I am a contributor
   
-**Software Architecture**
+**Project Leadership**
 
 In my years as a developer and architect, I've noted that Domain language drift across teams and departments is a major source of friction and misunderstanding.
 
 That's why I approach new architecture with domain-driven design, i.e., figure out the things and the processes that operate on the things first (nouns and verbs). That way, everyone from code to marketing is on the same page from the jump about what to call the things and what can be done with them. 
+
+**Software Architecture**
 
 And within modular software, the biggest problem is separation of concerns, e.g., not muddling view handling responsibiilities with business logic and domain logic. When I began working for large clients like WeightWatchers and Morgan Stanley, I felt that the tools avaiable for addressing these concerns were overcomplicated and made maintenance harder. 
 
@@ -30,7 +32,9 @@ So in 2004 I created the [PureMVC Framework](https://puremvc.org), a lightweight
 
 </details>
 <details><summary>🧠 Currently Focused on AI</summary>
-  
+
+**Building Agents**
+
 - ✨ [Puzzlebox](https://github.com/cliffhall/puzzlebox) is an [MCP](https://modelcontextprotocol.io/introduction) server that hosts finite state machines (called puzzles). With the GooseTeam project, we learned that attempting to make agents collaborate with a protocol for collaboration can generate results. But where it gets muddled is with non-trivial projects that need to employ phases. Inception, specification, design, building, etc. Within one of those phases an approach like GooseTeam can work well. This is where Puzzlebox comes in. It exposes tools to create and manipulate puzzles, moving state machines through their states. Clients can subscribe to individual state machines to receive updates when their state and available actions change.
 - ✨ [GooseTeam](https://github.com/cliffhall/GooseTeam?tab=readme-ov-file#gooseteam) is an [MCP](https://modelcontextprotocol.io/introduction) server I wrote for enabling collaboration between a team of [Goose](https://block.github.io/goose/) agents. Given an arbitrarily complex project such as outlining a television series pilot or creating a non-trivial software application, the agents utilize tools exposed by the MCP to plan, assign, and complete tasks in service of the goal. This project is pioneering the use of [mermaid markdown for controlling agents](https://www.linkedin.com/pulse/controlling-agents-mermaid-markdown-clifford-hall-of9pe/?trackingId=AoMJVL8VSTOnrQs5W2X81A%3D%3D).
 - ✨ At [Culturalyst](https://culturalyst.com), I recently built an arts and culture focused, city-specific [AI assistant for improving artist discovery](https://futurescale.com/2024/11/15/arts-and-culture-concierge-ai-assistant/). Separately, I overcame a showstopping issue with gathering artist opportunities from around the web and delivering to subscribing artists those relevant to their discipline and experience. With AI, I was able to [classify opportunities from arbitrary sites](https://futurescale.com/2023/11/10/artist-opportunity-classification-with-ai/) into our taxonomy, normalizing the data into our domain model such that they appeared to have been entered through our own UI.
@@ -47,8 +51,9 @@ My developer journey has been both deep and wide. So many different ways and thi
   
 <details><summary>⛓ An on-chain builder through multiple bulls and bears</summary>
   
-In 2018 I began working with Solidity, convinced that NFTs (not crypto) might actually be useful. I documented my developer journey as I discovered how radically different the field was from any other language or environment 
-I had ever worked on. It was bewildering, interesting, and greenfields as far as the eye could see. Everything hadn't been built, and the possibilities were endless. 
+**Letting crypto go**
+
+In 2018 I began working with Solidity, convinced that NFTs (not crypto) might actually be useful. I documented my developer journey in a webseries as I discovered how radically different the field was from any other language or environment I had ever worked on. It was bewildering, interesting, and greenfields as far as the eye could see. Everything hadn't been built, and the possibilities were endless. 
 
 Since then, crypto scams and the vicissitudes of the market have made it impossible to work in as a professional developer for hire, so I have decided to redirect all of my focus to AI, but I learned a lot on my blockchain journey, and met a lot of great people along the way.
 
@@ -94,7 +99,7 @@ Since then, crypto scams and the vicissitudes of the market have made it impossi
 
 </details>
 
-<details><summary>A few side endeavors</summary>
+<details><summary>🔥 Side projects keep the fire burning</summary>
 
 - [PureMVC](https://puremvc.org) Framework - Lightweight MVC architecture ported to over 15 programming languages
 - [Page Fight!](https://page-fight.com) - Readers helping authors be more awesome by judging their materials head to head in tournaments
