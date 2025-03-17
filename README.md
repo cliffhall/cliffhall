@@ -1,5 +1,5 @@
 ##  Cliff Hall
-Software architect, author, musician, dude.
+### Software architect, author, musician, dude.
 
 <details><summary>💥 Availability for Consulting</summary>
   
