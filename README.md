@@ -1,4 +1,5 @@
-##  Cliff Hall / [seaofarrows](https://solo.to/seaofarrows)
+##  Cliff Hall
+Software architect, author, musician, dude.
 
 <details><summary>💥 Availability for Consulting</summary>
   
@@ -10,19 +11,21 @@
 <details><summary>🔪 Sharpest Blades in the Drawer</summary>
   
 **Tools and Languages**
+
+I've slung a lot of code since the days of 6502 assembly for C64 and the Apple ][. Here's where I'm strongest at the moment.
 * React
-* Typescript
-* JavaScript
 * Node
 * JSX
+* Typescript
+* JavaScript
 * OpenAI API
 * Model Context Protocol (MCP) - I am a contributor
   
 **Project Leadership**
 
-In my years as a developer and architect, I've noted that Domain language drift across teams and departments is a major source of friction and misunderstanding.
+When leading teams to deliver code, I am convinced that unit testing and rigorous code review can make a team stronger and certainly elevates quality. The best compliment for a team I've led was that the codebase appeared as if created by one person.
 
-That's why I approach new architecture with domain-driven design, i.e., figure out the things and the processes that operate on the things first (nouns and verbs). That way, everyone from code to marketing is on the same page from the jump about what to call the things and what can be done with them. 
+In my years as an engineer, I've noted that domain language drift across teams and departments is a major source of friction and misunderstanding. That's why I approach new projects with domain-driven design, i.e., agree upon the things and the processes that operate on the things first (nouns and verbs). Build a glossary for your project. That way, everyone from code to marketing is on the same page from the jump about what to call the things and what can be done with them. 
 
 **Software Architecture**
 
