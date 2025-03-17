@@ -76,7 +76,7 @@ Since then, crypto scams and the vicissitudes of the market have made it impossi
 - [Dorado ChannelMaster](https://futurescale.com/2007/03/31/dorado-channelmaster-project-ships/) - Mortgage loan origination system (LOS)
 - [JP Morgan Chase](https://futurescale.com/2007/03/31/dorado-channelmaster-project-ships/) - Customized Dorado's Channelmaster LOS
 - [State Street Universe](https://futurescale.com/2005/03/12/futurescale-delivers-poc-for-state-street-bank/) - Architecture for initial proof of concept 
-- [Avtec/JITC CWCT](https://futurescale.com/2010/?hide-brand=cwct#avtec-systems-and-futurescale-build-cwct-for-jitc) - Military drone communication testing system
+- [Avtec/JITC CWCT](https://futurescale.com/2010/02/28/jitc-avtec-cwct/) - Military drone communication testing system
 - [Lockheed Martin/USSTRATCOM ISPAN](https://futurescale.com/2005/04/02/futurescale-advises-lockheed-martin) - Integrated Strategic Planning and Analysis Network
 - [Weight Watchers Plan Manager](https://futurescale.com/2005/10/08/weight-watchers-project-a-success) - Meal and diet planning system
 
