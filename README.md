@@ -1,18 +1,52 @@
 ##  Cliff Hall / [seaofarrows](https://solo.to/seaofarrows)
 
-## 💥 Availability for Consulting
+<details><summary>💥 Availability for Consulting</summary>
+  
+**I consult corp-to-corp through my company [Futurescale](https://futurescale.com)**
 - 📅 -  If you'd like to hire me or just chat about something interesting, you can grab a slot on [my calendar](https://calendly.com/cliffhall).
 - 📋 -  My resume is [here](https://futurescale.com/content/resume/Cliff-Hall-Resume-2024.pdf) if you're interested.
 
-## 🧠 Focused on AI
+</details>
+<details><summary>🔪 Sharpest Blades in the Drawer</summary>
+  
+**Tools and Languages**
+* React
+* Typescript
+* JavaScript
+* Node
+* JSX
+* OpenAI API
+* Model Context Protocol (MCP) - I am a contributor
+  
+**Software Architecture**
+
+In my years as a developer and architect, I've noted that Domain language drift across teams and departments is a major source of friction and misunderstanding.
+
+That's why I approach new architecture with domain-driven design, i.e., figure out the things and the processes that operate on the things first (nouns and verbs). That way, everyone from code to marketing is on the same page from the jump about what to call the things and what can be done with them. 
+
+And within modular software, the biggest problem is separation of concerns, e.g., not muddling view handling responsibiilities with business logic and domain logic. When I began working for large clients like WeightWatchers and Morgan Stanley, I felt that the tools avaiable for addressing these concerns were overcomplicated and made maintenance harder. 
+
+So in 2004 I created the [PureMVC Framework](https://puremvc.org), a lightweight, object-oriented MVC architecture that was eventually ported to over 15 programming languages and is still used today. Also wrote the [O'Reilly book](http://oreil.ly/puremvc).
+
+</details>
+<details><summary>🧠 Currently Focused on AI</summary>
+  
 - ✨ [Puzzlebox](https://github.com/cliffhall/puzzlebox) is an [MCP](https://modelcontextprotocol.io/introduction) server that hosts finite state machines (called puzzles). With the GooseTeam project, we learned that attempting to make agents collaborate with a protocol for collaboration can generate results. But where it gets muddled is with non-trivial projects that need to employ phases. Inception, specification, design, building, etc. Within one of those phases an approach like GooseTeam can work well. This is where Puzzlebox comes in. It exposes tools to create and manipulate puzzles, moving state machines through their states. Clients can subscribe to individual state machines to receive updates when their state and available actions change.
 - ✨ [GooseTeam](https://github.com/cliffhall/GooseTeam?tab=readme-ov-file#gooseteam) is an [MCP](https://modelcontextprotocol.io/introduction) server I wrote for enabling collaboration between a team of [Goose](https://block.github.io/goose/) agents. Given an arbitrarily complex project such as outlining a television series pilot or creating a non-trivial software application, the agents utilize tools exposed by the MCP to plan, assign, and complete tasks in service of the goal. This project is pioneering the use of [mermaid markdown for controlling agents](https://www.linkedin.com/pulse/controlling-agents-mermaid-markdown-clifford-hall-of9pe/?trackingId=AoMJVL8VSTOnrQs5W2X81A%3D%3D).
 - ✨ At [Culturalyst](https://culturalyst.com), I recently built an arts and culture focused, city-specific [AI assistant for improving artist discovery](https://futurescale.com/2024/11/15/arts-and-culture-concierge-ai-assistant/). Separately, I overcame a showstopping issue with gathering artist opportunities from around the web and delivering to subscribing artists those relevant to their discipline and experience. With AI, I was able to [classify opportunities from arbitrary sites](https://futurescale.com/2023/11/10/artist-opportunity-classification-with-ai/) into our taxonomy, normalizing the data into our domain model such that they appeared to have been entered through our own UI.
 
-- ✨ With [PlotRocket](https://plotrocket.app), an AI-assisted series planner and episode outliner, I am combining artificial intelligence with common industry practices for creating episodic fiction, yielding a tool capable of planning multiple seasons of a television series down to the scene and beat. With or without the use of AI. It allows anyone to turn an idea into an engaging episodic story. 
+- ✨ With [PlotRocket](https://plotrocket.app), an AI-assisted series planner and episode outliner, I am combining artificial intelligence with common industry practices for creating episodic fiction, yielding a tool capable of planning multiple seasons of a television series down to the scene and beat. With or without the use of AI. It allows anyone to turn an idea into an engaging episodic story.
 
-## 🕥 Previously on...
-### ⛓ An on-chain builder through multiple bulls and bears
+</details>
+
+<details><summary>🕥 Previously on...</summary>
+
+**Where I've been all these years**
+
+My developer journey has been both deep and wide. So many different ways and things to code out there. The good idioms and practices carry forward, even when the old tech gets replaced by new. Here are just a few things I've been up to since starting my company in 2004.
+  
+<details><summary>⛓ An on-chain builder through multiple bulls and bears</summary>
+  
 In 2018 I began working with Solidity, convinced that NFTs (not crypto) might actually be useful. I documented my developer journey as I discovered how radically different the field was from any other language or environment 
 I had ever worked on. It was bewildering, interesting, and greenfields as far as the eye could see. Everything hadn't been built, and the possibilities were endless. 
 
@@ -28,7 +62,10 @@ Since then, crypto scams and the vicissitudes of the market have made it impossi
 - [In-App Pro Shop](https://in-app-pro-shop.futurescale.com/) - NFT-based in-app purchases for Ethereum.
 - [Pass On](https://www.passon.io/) - Affiliate Marketing for the Web3 generation.
 
-### 📈 Enterprise and government work
+</details>
+
+<details><summary>📈 Enterprise and government work</summary>
+  
 - Google Deja View - An game that tested your knowledge of popular videos
 - Morgan Stanley Matrix - An an advanced FX trading application
 - Dorado ChannelMaster - Mortgage loan origination system (LOS)
@@ -38,18 +75,27 @@ Since then, crypto scams and the vicissitudes of the market have made it impossi
 - Lockheed Martin ISPAN - Integrated Strategic Planning and Analysis Network
 - Weight Watchers Plan Manager - Meal and diet planning system
 
-### 🕳️ Scrappy startups that didn't make it
+</details>
+
+<details><summary>🕳️ Scrappy startups that didn't make it</summary>
+  
 - [Ahead](https://www.youtube.com/user/CreativityConnected) - An infinite canvas app. Named on 3 international [patents](https://patents.google.com/patent/WO2010063014A1/en) as a result of our work.
 - [Olympus](https://www.behance.net/gallery/82333699/Olympus-Verified) - Base your crypto trading decisions on verified Information
 - [LaLa](https://www.behance.net/gallery/194754877/Lala) - Connecting fans with media franchises via NFTs & revenue sharing.
 
-### 📖 Teaching what I know
+</details>
+
+<details><summary>📖 Teaching what I know</summary>
+  
 - O'Reilly [PureMVC Developer Guide](https://www.oreilly.com/library/view/actionscript-developers-guide/9781449324698/) - 10 years of PureMVC engineering and community work in book form
 - [Building on Ethereum](https://www.amazon.com/Building-Ethereum-Solidity-Cliff-Hall-ebook/dp/B0852C116W) - A Solidity and React book I wrote.
 - PureMVC World Tour - San Francisco, London, Hamburg, Copenhagen
 - Adobe Flex Instructor - Great fun teaching enterprise devs onsite
 
-### A few side endeavors
+</details>
+
+<details><summary>A few side endeavors</summary>
+
 - [PureMVC](https://puremvc.org) Framework - Lightweight MVC architecture ported to over 15 programming languages
 - [Page Fight!](https://page-fight.com) - Readers helping authors be more awesome by judging their materials head to head in tournaments
 - [Sinewav3](https://app.sinewav3.com) - 3D music visualization system with built in plugin development environment
@@ -57,5 +103,7 @@ Since then, crypto scams and the vicissitudes of the market have made it impossi
 - [Tangential](https://www.amazon.com/Tangential-Dark-Matter-Highway-1/dp/0692613579) - Sci-fi novel about alien invasion, government conspiracy, quantum entanglement, and clsoed, tangential, time-like curves
 - [Loop Dust](https://loopdust.art) - A generative audiovisual art project
 - [Emergent Behavior](https://www.youtube.com/watch?v=tvYaoU1p6XY&list=OLAK5uy_njCaEWuGszF1AP1bjqSsKp-osy74HXB5M) - Sea of Arrows album
+
+</details>
 
 
