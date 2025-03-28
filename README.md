@@ -2,14 +2,14 @@
 
 <details><summary>💥 Availability for Consulting</summary>
   
-**I consult corp-to-corp through my company [Futurescale](https://futurescale.com)**
+### I consult corp-to-corp through my company [Futurescale](https://futurescale.com)
 - 📅 -  If you'd like to hire me or just chat about something interesting, you can grab a slot on [my calendar](https://calendly.com/cliffhall).
 - 📋 -  My resume is [here](https://cliffordhall.com/wp-content/uploads/2025/01/Cliff-Hall-Resume-2024.pdf) if you're interested.
 
 </details>
 <details><summary>🔪 Sharpest Blades in the Drawer</summary>
   
-**Tools and Languages**
+### Software Engineering
 
 I've slung a lot of code since the days of 6502 assembly for C64 and the Apple ][. Here's where I'm strongest at the moment.
 * React
@@ -20,28 +20,28 @@ I've slung a lot of code since the days of 6502 assembly for C64 and the Apple ]
 * OpenAI API
 * Model Context Protocol (MCP) - I am a contributor and maintainer
   
-**Project Leadership**
+### Project Leadership
 
 When leading teams to deliver code, I am convinced that unit testing and rigorous code review can make a team stronger and certainly elevates quality. The best compliment for a team I've led was that the codebase appeared as if created by one person.
 
-In my years as an engineer, I've noted that domain language drift across teams and departments is a major source of friction and misunderstanding. That's why I approach new projects with domain-driven design, i.e., agree upon the things and the processes that operate on the things first (nouns and verbs). Build a glossary for your project. That way, everyone from code to marketing is on the same page from the jump about what to call the things and what can be done with them. 
+I've noted that domain language drift across teams and departments is a major source of friction and misunderstanding. That's why I approach new projects with domain-driven design, i.e., agree upon the things and the processes that operate on the things first (nouns and verbs). Build a glossary for your project. That way, everyone from code to marketing is on the same page from the jump about what to call the things and what can be done with them. 
 
-**Software Architecture**
+### Software Architecture
 
 And within modular software, the biggest problem is separation of concerns, e.g., not muddling view handling responsibiilities with business logic and domain logic. When I began working for large clients like WeightWatchers and Morgan Stanley, I felt that the tools avaiable for addressing these concerns were overcomplicated and made maintenance harder. 
 
-So in 2004 I created the [PureMVC Framework](https://puremvc.org), a lightweight, object-oriented MVC architecture that was eventually ported to over 15 programming languages and is still used today. Also wrote the [O'Reilly book](http://oreil.ly/puremvc).
+So in 2004, I created the [PureMVC Framework](https://puremvc.org), a lightweight, object-oriented MVC architecture that was eventually ported to over 15 programming languages and is still used today. Also wrote the [O'Reilly book](http://oreil.ly/puremvc).
 
 </details>
 <details><summary>🧠 Currently Focused on AI</summary>
 
-**Building Agents**
+### Building Agents
 
 - ✨ [Model Context Protocol](https://github.com/modelcontextprotocol) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. I am a contributor, maintainer, and member of the MCP Steering Committee.
 - ✨ [Puzzlebox](https://github.com/cliffhall/puzzlebox) is an [MCP](https://modelcontextprotocol.io/introduction) server that hosts finite state machines (called puzzles). With the GooseTeam project, we learned that attempting to make agents collaborate with a protocol for collaboration can generate results. But where it gets muddled is with non-trivial projects that need to employ phases. Inception, specification, design, building, etc. Within one of those phases an approach like GooseTeam can work well. This is where Puzzlebox comes in. It exposes tools to create and manipulate puzzles, moving state machines through their states. Clients can subscribe to individual state machines to receive updates when their state and available actions change.
 - ✨ [GooseTeam](https://github.com/cliffhall/GooseTeam?tab=readme-ov-file#gooseteam) is an [MCP](https://modelcontextprotocol.io/introduction) server I wrote for enabling collaboration between a team of [Goose](https://block.github.io/goose/) agents. Given an arbitrarily complex project such as outlining a television series pilot or creating a non-trivial software application, the agents utilize tools exposed by the MCP to plan, assign, and complete tasks in service of the goal. This project is pioneering the use of [mermaid markdown for controlling agents](https://www.linkedin.com/pulse/controlling-agents-mermaid-markdown-clifford-hall-of9pe/?trackingId=AoMJVL8VSTOnrQs5W2X81A%3D%3D).
 
-**Solving Domain-specific Problems with AI**
+### Solving Domain-specific Problems with AI
 - ✨ At [Culturalyst](https://culturalyst.com), I recently built an arts and culture focused, city-specific [AI assistant for improving artist discovery](https://futurescale.com/2024/11/15/arts-and-culture-concierge-ai-assistant/). Separately, I overcame a showstopping issue with gathering artist opportunities from around the web and delivering to subscribing artists those relevant to their discipline and experience. With AI, I was able to [classify opportunities from arbitrary sites](https://futurescale.com/2023/11/10/artist-opportunity-classification-with-ai/) into our taxonomy, normalizing the data into our domain model such that they appeared to have been entered through our own UI.
 - ✨ With [PlotRocket](https://plotrocket.app), an AI-assisted series planner and episode outliner, I am combining artificial intelligence with common industry practices for creating episodic fiction, yielding a tool capable of planning multiple seasons of a television series down to the scene and beat. With or without the use of AI. It allows anyone to turn an idea into an engaging episodic story.
 
@@ -49,13 +49,13 @@ So in 2004 I created the [PureMVC Framework](https://puremvc.org), a lightweight
 
 <details><summary>🕥 Previously on...</summary>
 
-**Where I've been all these years**
+### Where I've been all these years
 
 My developer journey has been both deep and wide. So many different ways and things to code out there. The good idioms and practices carry forward, even when the old tech gets replaced by new. Here are just a few things I've been up to since starting my company in 2004.
   
 <details><summary>⛓ An on-chain builder through multiple bulls and bears</summary>
   
-**Letting crypto go**
+### Letting crypto go
 
 In 2018 I began working with Solidity, convinced that NFTs (not crypto) might actually be useful. I documented my developer journey in a webseries as I discovered how radically different the field was from any other language or environment I had ever worked on. It was bewildering, interesting, and greenfields as far as the eye could see. Everything hadn't been built, and the possibilities were endless. 
 
@@ -74,7 +74,7 @@ Since then, crypto scams and the vicissitudes of the market have made it impossi
 </details>
 
 <details><summary>📈 Enterprise and government work</summary>
-  
+
 - [Google Deja View](https://futurescale.com/2017/12/15/youtube-deja-view-game-launched/) - An game that tested your knowledge of popular videos
 - [Morgan Stanley Matrix](https://www.behance.net/gallery/44855332/Morgan-Stanley-Matrix) - An an advanced FX trading application
 - [Dorado ChannelMaster](https://futurescale.com/2007/03/31/dorado-channelmaster-project-ships/) - Mortgage loan origination system (LOS)
