@@ -32,7 +32,7 @@ With every new system design, I am guided by Einstein's maxim: "As simple as pos
 
 Within modular software, the biggest problem is separation of concerns, e.g., not muddling view handling responsibiilities with business logic and domain logic. As opposed to toolkits which offer a grab bag of utilities, frameworks help developers focus on requirements by providing a set of actors with roles, relationships, and collaboration patterns that solve for separation of concerns.
 
-When I began working for large enterprise clients, I noticed that the frameworks avaialble for the prevalent development stacks were overcomplicated and made maintenance harder. Junior team members often struggled to understand the collaboration patterns at play between the framework actors. This leads to messy, confusing code that is hard to maintain.
+When I began working for large enterprise clients, I noticed that the frameworks avaialble for the prevalent development stacks were overcomplicated and made maintenance harder. Junior team members often struggled to understand the collaboration patterns at play between the framework actors. This led to messy, confusing code that is hard to maintain.
 
 So in 2004, I created the [PureMVC Framework](https://puremvc.org). PureMVC is a lightweight, object-oriented MVC architecture that was eventually ported to over 15 programming languages and is still used today. Also wrote the [O'Reilly book](http://oreil.ly/puremvc). 
 
