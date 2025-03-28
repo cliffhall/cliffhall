@@ -53,70 +53,69 @@ So in 2004, I created the [PureMVC Framework](https://puremvc.org). PureMVC is a
 
 <details><summary>🕥 Previously on...</summary>
 
-### Where I've been all these years
+### Since founding Futurescale in 2004
+  
+  <details><summary>⛓ An on-chain builder through multiple bulls and bears</summary>
+      
+  - [Boson Protocol](https://www.bosonprotocol.io/) - A decentralized protocol for commerce.
+  - [Vinyl Registry](https://vinylregistry.org) - Pairing NFTs and limited-release rare vinyl.
+  - [Avastars](https://avastars.io/) - The first generative collectibles with on-chain art & metadata.
+  - [Fismo Protocol](https://github.com/cliffhall/Fismo/blob/main/README.md) - Cloneable EVM-based finite state machine protocol.
+  - [KnownOrigin](https://knownorigin.io) - Royalties & collab fund splitting. Since bought by eBay and closed down.
+  - [Seen Haus](https://github.com/seen-haus/seen-contracts) - Diamond-based, open-source physical & digital NFT marketplace. Since bought by Propy.
+  - [Nifty Cannon](https://niftycannon.app) - Make it rain NFTs! Zero-fee bulk NFT transfer.
+  - [In-App Pro Shop](https://in-app-pro-shop.futurescale.com/) - NFT-based in-app purchases for Ethereum.
+  - [Pass On](https://www.passon.io/) - Affiliate Marketing for the Web3 generation.
 
-My developer journey has been both deep and wide. So many different ways and things to code out there. The good idioms and practices carry forward, even when the old tech gets replaced by new. Here are just a few things I've been up to since starting my company in 2004.
-  
-<details><summary>⛓ An on-chain builder through multiple bulls and bears</summary>
-  
 ### Letting crypto go
-
-In 2018 I began working with Solidity, convinced that NFTs (not crypto) might actually be useful. I documented my developer journey in a webseries as I discovered how radically different the field was from any other language or environment I had ever worked on. It was bewildering, interesting, and greenfields as far as the eye could see. Everything hadn't been built, and the possibilities were endless. 
-
-Since then, crypto scams and the vicissitudes of the market have made it impossible to work in as a professional developer for hire, so I have decided to redirect all of my focus to AI, but I learned a lot on my blockchain journey, and met a lot of great people along the way.
-
-- [Boson Protocol](https://www.bosonprotocol.io/) - A decentralized protocol for commerce.
-- [Vinyl Registry](https://vinylregistry.org) - Pairing NFTs and limited-release rare vinyl.
-- [Avastars](https://avastars.io/) - The first generative collectibles with on-chain art & metadata.
-- [Fismo Protocol](https://github.com/cliffhall/Fismo/blob/main/README.md) - Cloneable EVM-based finite state machine protocol.
-- [KnownOrigin](https://knownorigin.io) - Royalties & collab fund splitting. Since bought by eBay and closed down.
-- [Seen Haus](https://github.com/seen-haus/seen-contracts) - Diamond-based, open-source physical & digital NFT marketplace. Since bought by Propy.
-- [Nifty Cannon](https://niftycannon.app) - Make it rain NFTs! Zero-fee bulk NFT transfer.
-- [In-App Pro Shop](https://in-app-pro-shop.futurescale.com/) - NFT-based in-app purchases for Ethereum.
-- [Pass On](https://www.passon.io/) - Affiliate Marketing for the Web3 generation.
-
-</details>
-
-<details><summary>📈 Enterprise and government work</summary>
-
-- [Google Deja View](https://futurescale.com/2017/12/15/youtube-deja-view-game-launched/) - An game that tested your knowledge of popular videos
-- [Morgan Stanley Matrix](https://www.behance.net/gallery/44855332/Morgan-Stanley-Matrix) - An an advanced FX trading application
-- [Dorado ChannelMaster](https://futurescale.com/2007/03/31/dorado-channelmaster-project-ships/) - Mortgage loan origination system (LOS)
-- [JP Morgan Chase](https://futurescale.com/2007/03/31/dorado-channelmaster-project-ships/) - Customized Dorado's Channelmaster LOS
-- [State Street Universe](https://futurescale.com/2005/03/12/futurescale-delivers-poc-for-state-street-bank/) - Architecture for initial proof of concept 
-- [Avtec/JITC CWCT](https://futurescale.com/2010/02/28/jitc-avtec-cwct/) - Military drone communication testing system
-- [Lockheed Martin/USSTRATCOM ISPAN](https://futurescale.com/2005/04/02/futurescale-advises-lockheed-martin) - Integrated Strategic Planning and Analysis Network
-- [Weight Watchers Plan Manager](https://futurescale.com/2005/10/08/weight-watchers-project-a-success) - Meal and diet planning system
-
-</details>
-
-<details><summary>🕳️ Scrappy startups that didn't make it</summary>
   
-- [Ahead](https://www.youtube.com/user/CreativityConnected) - An infinite canvas app. Named on 3 international [patents](https://patents.google.com/patent/WO2010063014A1/en) as a result of our work.
-- [Olympus](https://www.behance.net/gallery/82333699/Olympus-Verified) - Base your crypto trading decisions on verified Information
-- [LaLa](https://www.behance.net/gallery/194754877/Lala) - Connecting fans with media franchises via NFTs & revenue sharing.
-
-</details>
-
-<details><summary>📖 Teaching what I know</summary>
+  In 2018 I began working with Solidity, convinced that NFTs (not crypto) might actually be useful. I documented my developer journey in a webseries as I discovered how radically different the field was from any other language or environment I had ever worked on. It was bewildering, interesting, and greenfields as far as the eye could see. Everything hadn't been built, and the possibilities were endless. 
   
-- O'Reilly [PureMVC Developer Guide](https://www.oreilly.com/library/view/actionscript-developers-guide/9781449324698/) - 10 years of PureMVC engineering and community work in book form
-- [Building on Ethereum](https://www.amazon.com/Building-Ethereum-Solidity-Cliff-Hall-ebook/dp/B0852C116W) - A Solidity and React book I wrote.
-- PureMVC World Tour - San Francisco, London, Hamburg, Copenhagen
-- Adobe Flex Instructor - Great fun teaching enterprise devs onsite
+  Since then, crypto scams and the vicissitudes of the market have made it impossible to work in as a professional developer for hire, so I have decided to redirect all of my focus to AI, but I learned a lot on my blockchain journey, and met a lot of great people along the way.
+
+  </details>
+
+  <details><summary>📈 Enterprise and government work</summary>
+  
+  - [Google Deja View](https://futurescale.com/2017/12/15/youtube-deja-view-game-launched/) - An game that tested your knowledge of popular videos
+  - [Morgan Stanley Matrix](https://www.behance.net/gallery/44855332/Morgan-Stanley-Matrix) - An an advanced FX trading application
+  - [Dorado ChannelMaster](https://futurescale.com/2007/03/31/dorado-channelmaster-project-ships/) - Mortgage loan origination system (LOS)
+  - [JP Morgan Chase](https://futurescale.com/2007/03/31/dorado-channelmaster-project-ships/) - Customized Dorado's Channelmaster LOS
+  - [State Street Universe](https://futurescale.com/2005/03/12/futurescale-delivers-poc-for-state-street-bank/) - Architecture for initial proof of concept 
+  - [Avtec/JITC CWCT](https://futurescale.com/2010/02/28/jitc-avtec-cwct/) - Military drone communication testing system
+  - [Lockheed Martin/USSTRATCOM ISPAN](https://futurescale.com/2005/04/02/futurescale-advises-lockheed-martin) - Integrated Strategic Planning and Analysis Network
+  - [Weight Watchers Plan Manager](https://futurescale.com/2005/10/08/weight-watchers-project-a-success) - Meal and diet planning system
+  
+  </details>
+  
+  <details><summary>🕳️ Scrappy startups that didn't make it</summary>
+    
+  - [Ahead](https://www.youtube.com/user/CreativityConnected) - An infinite canvas app. Named on 3 international [patents](https://patents.google.com/patent/WO2010063014A1/en) as a result of our work.
+  - [LaLa](https://www.behance.net/gallery/194754877/Lala) - Connecting fans with media franchises via NFTs & revenue sharing.
+  - [Olympus](https://www.behance.net/gallery/82333699/Olympus-Verified) - Base your crypto trading decisions on verified Information
+  
+  </details>
+
+  <details><summary>📖 Teaching what I know</summary>
+    
+  - PureMVC World Tour - Talks at Adobe sites, events and user groupes from San Francisco to London to Hamburg and Copenhagen.
+  - O'Reilly [PureMVC Developer Guide](https://www.oreilly.com/library/view/actionscript-developers-guide/9781449324698/) -  Lessons from 10 years of PureMVC engineering and community work in book form.
+  - Adobe Flex Instructor - Certified onsite instruction of dev.
+  - [Building on Ethereum](https://www.amazon.com/Building-Ethereum-Solidity-Cliff-Hall-ebook/dp/B0852C116W) - A Solidity and React book I wrote.
+  
+  </details>
 
 </details>
 
 <details><summary>🔥 Side projects keep the fire burning</summary>
 
-- [PureMVC](https://puremvc.org) Framework - Lightweight MVC architecture ported to over 15 programming languages
-- [Page Fight!](https://page-fight.com) - Readers helping authors be more awesome by judging their materials head to head in tournaments
-- [Sinewav3](https://app.sinewav3.com) - 3D music visualization system with built in plugin development environment
+- [Tangential](https://www.amazon.com/Tangential-Dark-Matter-Highway-1/dp/0692613579) - Sci-fi novel about alien invasion, government conspiracy, quantum entanglement, and tangential timelines.
+- [Emergent Behavior](https://www.youtube.com/watch?v=tvYaoU1p6XY&list=OLAK5uy_njCaEWuGszF1AP1bjqSsKp-osy74HXB5M) - The 2024 Sea of Arrows album. Available on Spotify, YouTube Music, iTunes, etc.
+- [PureMVC](https://puremvc.org) Framework - Lightweight MVC architecture ported to over 15 programming languages.
+- [Page Fight!](https://page-fight.com) - Readers helping authors be more awesome. And keeping score.
+- [Sinewav3](https://app.sinewav3.com) - 3D music visualizer with built in plugin development environment.
+- [PlotRocket](https://plotrocket.app), an AI-assisted series planner and episode outliner.
 - [Zarqon](https://zarqon.net) - A secure, cloud-based software licensing product.
-- [Tangential](https://www.amazon.com/Tangential-Dark-Matter-Highway-1/dp/0692613579) - Sci-fi novel about alien invasion, government conspiracy, quantum entanglement, and clsoed, tangential, time-like curves
-- [Loop Dust](https://loopdust.art) - A generative audiovisual art project
-- [Emergent Behavior](https://www.youtube.com/watch?v=tvYaoU1p6XY&list=OLAK5uy_njCaEWuGszF1AP1bjqSsKp-osy74HXB5M) - Sea of Arrows album
+- [Loop Dust](https://loopdust.art) - A generative audiovisual art project.
 
 </details>
-
-
