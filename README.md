@@ -2,7 +2,7 @@
 
 <details><summary>💥 Availability for Consulting</summary>
   
-### I consult corp-to-corp through my company [Futurescale](https://futurescale.com)
+### I consult corp-to-corp through my company [Futurescale](https://futurescale.com).
 - 🧭 -  I was invited to become a committing member of the [Model Context Protocol](https://github.com/modelcontextprotocol) maintainers and steering committee.
 - 🔍 -  My primary focus is artificial intelligence, specifically enabling teams of agents to perform long horizon tasks.
 - 📅 -  If you'd like to hire me or just chat about something interesting, you can grab a slot on [my calendar](https://calendly.com/cliffhall).
