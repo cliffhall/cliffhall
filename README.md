@@ -22,15 +22,19 @@ I've slung a lot of code since the days of 6502 assembly for C64 and the Apple ]
   
 ### Project Leadership
 
-When leading teams to deliver code, I am convinced that unit testing and rigorous code review can make a team stronger and certainly elevates quality. The best compliment for a team I've led was that the codebase appeared as if created by one person.
+I enjoy leading remote, globally distributed teams to success. This requires continuous integration, unit testing with an aim for 100% coverage, and rigorous code review. It makes a team stronger and certainly elevates code quality. The highest compliment for a team I've led was that the codebase appeared as if created by one person.
 
-I've noted that domain language drift across teams and departments is a major source of friction and misunderstanding. That's why I approach new projects with domain-driven design, i.e., agree upon the things and the processes that operate on the things first (nouns and verbs). Build a glossary for your project. That way, everyone from code to marketing is on the same page from the jump about what to call the things and what can be done with them. 
+A common thing I see is domain language drift across teams and departments acting as a major source of friction and misunderstanding, both internally and with . That's why I approach new projects with domain-driven design, i.e., agree upon the things and the processes that operate on the things first (nouns and verbs). Build a glossary for the project and everyone from code to marketing is on the same page from the jump. 
 
 ### Software Architecture
 
-And within modular software, the biggest problem is separation of concerns, e.g., not muddling view handling responsibiilities with business logic and domain logic. When I began working for large clients like WeightWatchers and Morgan Stanley, I felt that the tools avaiable for addressing these concerns were overcomplicated and made maintenance harder. 
+With every new system design, I am guided by Einstein's maxim: "As simple as possible, no simpler." 
 
-So in 2004, I created the [PureMVC Framework](https://puremvc.org), a lightweight, object-oriented MVC architecture that was eventually ported to over 15 programming languages and is still used today. Also wrote the [O'Reilly book](http://oreil.ly/puremvc).
+Within modular software, the biggest problem is separation of concerns, e.g., not muddling view handling responsibiilities with business logic and domain logic. As opposed to toolkits which offer a grab bag of utilities, frameworks help developers focus on requirements by providing a set of actors with roles, relationships, and collaboration patterns that solve for separation of concerns.
+
+When I began working for large enterprise clients, I noticed that the frameworks avaialble for the prevalent development stacks were overcomplicated and made maintenance harder. Junior team members often struggled to understand the collaboration patterns at play between the framework actors. This leads to messy, confusing code that is hard to maintain.
+
+So in 2004, I created the [PureMVC Framework](https://puremvc.org). PureMVC is a lightweight, object-oriented MVC architecture that was eventually ported to over 15 programming languages and is still used today. Also wrote the [O'Reilly book](http://oreil.ly/puremvc). 
 
 </details>
 <details><summary>🧠 Currently Focused on AI</summary>
