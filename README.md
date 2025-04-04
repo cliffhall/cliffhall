@@ -101,7 +101,7 @@ So in 2004, I created the [PureMVC Framework](https://puremvc.org). PureMVC is a
 
   <details><summary>📖 Teaching what I know</summary>
     
-  - PureMVC World Tour - Talks at Adobe sites, events and user groupes from San Francisco to London to Hamburg and Copenhagen.
+  - PureMVC World Tour - Talks at Adobe sites, events and user groups from San Francisco to London to Hamburg and Copenhagen.
   - O'Reilly [PureMVC Developer Guide](https://www.oreilly.com/library/view/actionscript-developers-guide/9781449324698/) -  Lessons from 10 years of PureMVC engineering and community work in book form.
   - Adobe Flex Instructor - Certified onsite instruction of dev.
   - [Building on Ethereum](https://www.amazon.com/Building-Ethereum-Solidity-Cliff-Hall-ebook/dp/B0852C116W) - A Solidity and React book I wrote.
