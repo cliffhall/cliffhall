@@ -6,7 +6,7 @@
 - 🔍 -  My primary focus is artificial intelligence, specifically enabling teams of agents to perform long horizon tasks with MCP.
 - 🧭 -  I was recently invited to become a member of the [Model Context Protocol](https://github.com/modelcontextprotocol) maintainers and steering committee.
 - 📅 -  If you'd like to hire me or just chat about something interesting, you can grab a slot on [my calendar](https://calendly.com/cliffhall).
-- 📋 -  Here are my [resume](https://raw.githubusercontent.com/cliffhall/cliffhall/main/media/Cliff-Hall-Resume-2024.pdf) and [recommendations](https://raw.githubusercontent.com/cliffhall/cliffhall/main/media/Cliff-Hall-Recommendations.pdf) if you're interested.
+- 📋 -  Here are my [resume](https://raw.githubusercontent.com/cliffhall/cliffhall/main/media/Cliff-Hall-Resume-2025.pdf) and [recommendations](https://raw.githubusercontent.com/cliffhall/cliffhall/main/media/Cliff-Hall-Recommendations.pdf) if you're interested.
 
 </details>
 
