@@ -28,11 +28,11 @@ I've slung a lot of code since the days of 6502 assembly for C64 and the Apple ]
 
 I enjoy leading remote, globally distributed teams to success. This requires continuous integration, unit testing with an aim for 100% coverage, and rigorous code review. It makes a team stronger and certainly elevates code quality. The highest compliment for a team I've led was that the codebase appeared as if created by one person.
 
-A common thing I see is domain language drift across teams and departments acting as a major source of friction and misunderstanding, both internally and with . That's why I approach new projects with domain-driven design, i.e., agree upon the things and the processes that operate on the things first (nouns and verbs). Build a glossary for the project and everyone from code to marketing is on the same page from the jump. 
-
 ### Software Architecture
 
 With every new system design, I am guided by Einstein's maxim: "As simple as possible, no simpler." 
+
+A common thing I see is domain language drift across teams and departments acting as a major source of friction and misunderstanding. That's why I approach new projects with domain-driven design, i.e., agree upon the things and the processes that operate on the things first (nouns and verbs). Build a glossary for the project and everyone from code to marketing is on the same page from the jump. 
 
 Within modular software, the biggest problem is separation of concerns, e.g., not muddling view handling responsibiilities with business logic and domain logic. As opposed to toolkits which offer a grab bag of utilities, frameworks help developers focus on requirements by providing a set of actors with roles, relationships, and collaboration patterns that solve for separation of concerns.
 
