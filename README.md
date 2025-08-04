@@ -20,6 +20,7 @@ I've slung a lot of code since the days of 6502 assembly for C64 and the Apple ]
 * JSX
 * Typescript
 * JavaScript
+* ElectronJS
 * OpenAI API
 * Model Context Protocol (MCP) - I am a contributor and maintainer
   
